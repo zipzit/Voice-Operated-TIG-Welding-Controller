@@ -20,4 +20,8 @@ Parts List:
    - On/Off toggle switch
    - Power supply
    - Connector compatible with your welder.
-   
+
+Software Reference:
+
+ - https://github.com/alexa/alexa-avs-sample-app
+ - http://www.geek.com/tech/you-can-now-hack-together-your-own-amazon-echo-with-a-raspberry-pi-1679085/  (comment: FYI to anyone wanting to try this project - there are other options for (IMHO) better AI programs than Alexa/Siri/Cortana developed by Linux programmers. My personal favorite is JASPER, coded by two students. It's open source and available on Github. The advantage to building your own AI from scratch on a pi is that you can choose to use a local text to voice and voice to text engine, and local information repositories... (and)- you will have an AI that you can name anything you want to.)   (Zipzit note: I've been unable to find JASPER...)
