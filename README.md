@@ -1,7 +1,8 @@
 # Voice-Operated-TIG-Welding-Controller
-Use an Alexa/Siri style voice system to control your TIG welder.  Designed for handicapped welders without access to foot pedal controller.  The intent here is to create a complete package so that anybody who wanted to build their own would have a complete guide to hardware and software.
+Use an Alexa/Siri style voice system to control your TIG welder.  Designed for handicapped welders without access to foot pedal controller.  The intent here is to create a complete package so that anybody who wanted to build their own would have a complete guide to hardware and software.  The intent is that the handicapped welder would wear a blue tooth headset with microphone under his helmet.  That would be linked to a Raspberry Pi Linux computer plugged into power and attached to the welder power supply.  The user could use voice commands to fully control the TIG welder power supply.  
 
-The system is based on a Raspberry PI / Amazon Echo / Alexa controller system.
+The system is based on a Raspberry PI / Amazon Echo / Alexa voice activated
+ controller system.
 
 Voice Commands:
 
